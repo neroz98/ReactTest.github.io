@@ -1,11 +1,11 @@
 {
-  "main.js": "/neroz98/ReactTest.github.io/static/js/main.c4946a26.chunk.js",
-  "main.js.map": "/neroz98/ReactTest.github.io/static/js/main.c4946a26.chunk.js.map",
-  "static/js/1.a8223b6f.chunk.js": "/neroz98/ReactTest.github.io/static/js/1.a8223b6f.chunk.js",
-  "static/js/1.a8223b6f.chunk.js.map": "/neroz98/ReactTest.github.io/static/js/1.a8223b6f.chunk.js.map",
-  "runtime~main.js": "/neroz98/ReactTest.github.io/static/js/runtime~main.4b99dc0a.js",
-  "runtime~main.js.map": "/neroz98/ReactTest.github.io/static/js/runtime~main.4b99dc0a.js.map",
-  "index.html": "/neroz98/ReactTest.github.io/index.html",
-  "precache-manifest.8ab550348a50a6f6d779913bd4d1035d.js": "/neroz98/ReactTest.github.io/precache-manifest.8ab550348a50a6f6d779913bd4d1035d.js",
-  "service-worker.js": "/neroz98/ReactTest.github.io/service-worker.js"
+  "main.js": "/static/js/main.c4946a26.chunk.js",
+  "main.js.map": "/static/js/main.c4946a26.chunk.js.map",
+  "static/js/1.a8223b6f.chunk.js": "/static/js/1.a8223b6f.chunk.js",
+  "static/js/1.a8223b6f.chunk.js.map": "/static/js/1.a8223b6f.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.d427175fb8a4cf9c35112a2a4db52baf.js": "/precache-manifest.d427175fb8a4cf9c35112a2a4db52baf.js",
+  "service-worker.js": "/service-worker.js"
 }
